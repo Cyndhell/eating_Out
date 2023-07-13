@@ -43,7 +43,7 @@ mydata <- na.omit(mydata)
 
 
 # Method
-
+Race ~ frequency of eating out
 
 # Descriptive Results
 
