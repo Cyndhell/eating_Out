@@ -44,7 +44,7 @@ mydata <- na.omit(mydata)
 
 # Method
 
-Race ~ frequency of eating out
+The method that will be using is cat~num, The variable will be Race ~ frequency of eating out
 
 # Results
 
