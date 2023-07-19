@@ -83,7 +83,7 @@ Chi squared result in the p-value between white and balck is 0.0008179. We see t
 
 # Discussion/Conclusion 
 
-Overall The p-value is so small that's why we reject the null hypothesis based on the result. Therefore, I conclude there is difference in ethnicity based on the frequency they eating out. 
+Overall The p-value is so small that's why we reject the null hypothesis based on the result. Therefore, I conclude there is difference in ethnicity based on the frequency they eating out. In each combination between white and black have different. The combination between white and other have no difference, likewise the combination black and other.
 
 
 
