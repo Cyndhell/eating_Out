@@ -79,11 +79,11 @@ chisqtestGC(table1)
 fisherXY(mydata$race,mydata$eatout, printAll=T)
 ```
 
-Chi squared result in the p-value is 0.0008179. We see the number is too small that's why we reject the null hypothesis.
+Chi squared result in the p-value between white and balck is 0.0008179. We see the number is too small that's why we reject the null hypothesis. Chi squared result between the white and other the p-value 0.3534. We see that there's no difference which is that's why we failed to reject the null hypothesis. Chi squared result between black and other the p-value 0.2815. We see that there's no difference that's why we failed to reject the null hypothesis.
 
 # Discussion/Conclusion 
 
-The p-value is so small that's why we reject the null hypothesis based on the result. Therefore, I conclude there is difference in ethnicity based on the frequency they eating out. 
+Overall The p-value is so small that's why we reject the null hypothesis based on the result. Therefore, I conclude there is difference in ethnicity based on the frequency they eating out. 
 
 
 
